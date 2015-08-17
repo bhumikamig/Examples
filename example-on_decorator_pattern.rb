@@ -7,7 +7,7 @@ class Parser
 end
 
 class XmlParser
-  def initialize(parser) # Obeject is initialized with the help of constructor
+  def initialize(parser) # Object is initialized with the help of constructor
     @parser = parser
   end
 

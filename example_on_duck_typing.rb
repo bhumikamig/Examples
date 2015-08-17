@@ -20,7 +20,7 @@ end
 
 parser = GenericParser.new
 puts 'Using the XmlParser'
-parser.parse(XmlParser.new) # Obeject of XmlParser class is created
+parser.parse(XmlParser.new) # Object of XmlParser class is created
 
 puts 'Using the JsonParser'
 parser.parse(JsonParser.new) # Object of JsonParser class is created
